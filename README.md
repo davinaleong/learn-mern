@@ -1,2 +1,2 @@
-# learn-mern
+# Learn MERN
 Learning MERN stack
