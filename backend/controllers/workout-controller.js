@@ -38,9 +38,20 @@ const show = async (req, res) => {
   res.status(200).json(workout)
 }
 
+// Edit a workout
+const edit = async (req, res) => {
+  //
+}
+
 // Update a workout
+const update = async (req, res) => {
+  //
+}
 
 // Delete a workout
+const destroy = async (req, res) => {
+  //
+}
 
 module.exports = {
   index,
